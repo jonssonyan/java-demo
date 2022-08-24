@@ -4,11 +4,12 @@
 
 java gui 制作的一个聊天工具，包括客户端client 和 服务器server
 
-## 截图
+## 演示
+
 1. client
 
-![client](https://images.gitee.com/uploads/images/2020/1206/013249_ec0ea3a3_2275340.png "client.png")
+![client](https://user-images.githubusercontent.com/46235235/186466031-4ef9a17d-a696-4791-8fab-60d8d370572e.png)
 
 2. server
 
-![server](https://images.gitee.com/uploads/images/2020/1206/013257_073ef1f4_2275340.png "server.png")
+![server](https://user-images.githubusercontent.com/46235235/186466099-9cf96ae9-2068-4695-9364-0843fecec40e.png)

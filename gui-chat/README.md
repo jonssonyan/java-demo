@@ -2,7 +2,7 @@
 
 ## 介绍
 
-java gui 制作的一个聊天工具，包括客户端client 和 服务器server
+Java GUI制作的一个聊天工具，包括客户端client和服务器server
 
 ## 演示
 

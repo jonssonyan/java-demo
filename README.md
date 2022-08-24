@@ -1,0 +1,9 @@
+# Java Demo
+
+Java开发的玩具项目
+
+# 目录
+
+1. [Java GUI聊天工具](./gui-chat)
+2. [Java GUI贪吃蛇小游戏](./gui-game-snake)
+3. [Java GUI离线工具箱](./gui-offline-tool)

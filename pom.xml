@@ -9,6 +9,7 @@
     <version>1.0.0</version>
     <name>java-demo</name>
     <description>Java Demo</description>
+    <packaging>pom</packaging>
 
     <modules>
         <module>gui-chat</module>

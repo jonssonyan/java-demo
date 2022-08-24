@@ -5,16 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>java-toy</artifactId>
+        <artifactId>java-demo</artifactId>
         <groupId>com.jonssonyan</groupId>
         <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>game-snake</artifactId>
+    <artifactId>gui-offline-tool</artifactId>
     <version>1.0.0</version>
-    <name>game-snake</name>
-    <description>Game Snake</description>
+    <name>gui-offline-tool</name>
+    <description>GUI Offline Tool</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -5,16 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>java-toy</artifactId>
+        <artifactId>java-demo</artifactId>
         <groupId>com.jonssonyan</groupId>
         <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>offline-tool</artifactId>
+    <artifactId>gui-chat</artifactId>
     <version>1.0.0</version>
-    <name>offline-tool</name>
-    <description>Offline Tool</description>
+    <name>gui-chat</name>
+    <description>GUI Chat</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

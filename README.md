@@ -1,8 +1,10 @@
-# Java Demo
+# Java Guide
 
-Java开发的玩具项目
+Java学习指南
 
-# 目录
+# 项目
+
+### Java GUI
 
 1. [Java GUI聊天工具](./gui-chat)
 2. [Java GUI贪吃蛇小游戏](./gui-game-snake)

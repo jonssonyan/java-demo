@@ -4,19 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jonssonyan</groupId>
-    <artifactId>java-guide</artifactId>
-    <version>1.0.0</version>
-    <name>java-guide</name>
-    <description>Java Guide</description>
-    <packaging>pom</packaging>
+    <parent>
+        <artifactId>java-guide</artifactId>
+        <groupId>com.jonssonyan</groupId>
+        <version>1.0.0</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
 
-    <modules>
-        <module>gui-chat</module>
-        <module>gui-game-snake</module>
-        <module>gui-offline-tool</module>
-        <module>algorithm</module>
-    </modules>
+    <artifactId>algorithm</artifactId>
+    <version>1.0.0</version>
+    <name>algorithm</name>
+    <description>Algorithm</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

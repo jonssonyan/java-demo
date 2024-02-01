@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>java-guide</artifactId>
+        <artifactId>java-demo</artifactId>
         <groupId>com.jonssonyan</groupId>
         <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>

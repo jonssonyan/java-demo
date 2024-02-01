@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jonssonyan</groupId>
-    <artifactId>java-guide</artifactId>
+    <artifactId>java-demo</artifactId>
     <version>1.0.0</version>
-    <name>java-guide</name>
-    <description>Java Guide</description>
+    <name>java-demo</name>
+    <description>Java Demo</description>
     <packaging>pom</packaging>
 
     <modules>

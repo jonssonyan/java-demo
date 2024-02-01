@@ -1,8 +1,8 @@
-# Java Guide
+# Java实战
 
-Java学习指南
+Java项目实战
 
-# 项目
+## 项目
 
 ### Java GUI
 
@@ -10,6 +10,6 @@ Java学习指南
 2. [Java GUI贪吃蛇小游戏](./gui-game-snake)
 3. [Java GUI离线工具箱](./gui-offline-tool)
 
-### 算法
+## 算法
 
 [算法](./algorithm)

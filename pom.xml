@@ -5,17 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jonssonyan</groupId>
-    <artifactId>java-demo</artifactId>
+    <artifactId>java-gui</artifactId>
     <version>1.0.0</version>
-    <name>java-demo</name>
-    <description>Java Demo</description>
+    <name>java-gui</name>
+    <description>Java GUI</description>
     <packaging>pom</packaging>
 
     <modules>
         <module>gui-chat</module>
         <module>gui-game-snake</module>
         <module>gui-offline-tool</module>
-        <module>algorithm</module>
     </modules>
 
     <properties>
